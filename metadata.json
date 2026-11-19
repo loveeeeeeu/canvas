@@ -1,0 +1,6 @@
+{
+  "name": "墨流白板 · InkFlow P2P",
+  "description": "无后端 P2P 实时多人协同手绘白板与流程图工具，基于 React、RoughJS、Yjs CRDT、BroadcastChannel 与 WebRTC 构建。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
